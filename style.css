@@ -1,0 +1,52 @@
+
+
+/*background: url(images/bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+
+
+
+body{
+
+	background-image: url('img/back.png');
+    background-size:100% 100%;
+   font-variant: 87.5%; /* Base font size is 14 px*/
+   font-family:  Arial, 'Lucida Sans Unicode';
+   line-height:  1.5;
+   text-align: left;
+}
+
+
+a {
+
+	text-decoration: none;
+}
+
+a:link, a:visited{
+
+
+} 
+
+
+a:hover, a:active{
+
+
+}
+.body {
+
+margin: 0 auto;
+width: 70%;
+clear: both;
+
+}
+
+.mainheader img{
+
+	width: 25%;
+    height: auto;
+    margin: 2% 0;
+
+}
+
